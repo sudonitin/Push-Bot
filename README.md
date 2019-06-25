@@ -1,5 +1,7 @@
 <h1>Goals and bucketlist to achieve</h1>
 
 <br>
-<p>-Contribute to open source as much as you can</p>
-<p>-Read blogs from GFG to improve interview skills</p>
+<ul>
+  <li>contribute to open source as much as you can</li>
+  <li>Improve interview skills reading from gfg</li>
+</ul>
