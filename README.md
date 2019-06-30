@@ -17,3 +17,7 @@
   <li>Web Interface for text to speech converter<b>-Not started yet</b></li>
   <li>No Ball OpenCV<b>Not yet started</b></li>
 </ul>
+<h1>What did I completed so far?</h1>
+<ul>
+  <li></li>
+</ul>
