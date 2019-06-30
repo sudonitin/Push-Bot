@@ -3,6 +3,6 @@
 <br>
 <ul>
   <li>contribute to open source as much as you can <b>This is not going any far</b></li>
-  <li>Improve interview skills reading from gfg</li>
-  <li></li>
+  <li>Improve interview skills reading from gfg <b>I have started reading ds and algo made easy completed till trees</b></li>
+  <li>Complete whatever project ideas you have in your mind</li>
 </ul>
