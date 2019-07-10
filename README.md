@@ -17,10 +17,12 @@
   <li>Web Interface for text to speech converter<b>-Not started yet</b></li>
   <li>No Ball OpenCV<b>Not yet started</b></li>
 </ul>
-<h1>What did I completed so far?</h1>
-<ul>
-  <li></li>
-</ul>
+<br>
+
+# What did I completed so far?
+- I completed the Audio Book Generator(with CLI).
+
+
 yesterday i completed all my tasks
 today i will complete my task
 writing on this file is one of my daily tasks
