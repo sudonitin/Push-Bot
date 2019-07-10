@@ -25,4 +25,4 @@ yesterday i completed all my tasks
 today i will complete my task
 writing on this file is one of my daily tasks
 
-HI I AM WRITING HERE TO MAKE ANOTHER CONTRIBUTION. LAST COMMIT TO MAKE IT DARKER
+I am going to follow a tutorial of free code camp to develop a MERN application.
