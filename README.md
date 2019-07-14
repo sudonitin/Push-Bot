@@ -9,7 +9,7 @@
 </ul>
 <h1>Bucket List</h1>
 <ul>
-  <li>Post wake me up when september ends by the end of second week of July</li>
+  <li>Post wake me up when september ends asap it sounds close to perfect</li>
 </ul>
 <h1>Project Ideas</h1>
 <ul>
