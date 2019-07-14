@@ -23,10 +23,6 @@
 - I completed the Audio Book Generator(with CLI).
 
 
-yesterday i completed all my tasks
-today i will complete my task
-writing on this file is one of my daily tasks
-
-I am going to follow a tutorial of free code camp to develop a MERN application.
-I am going to complete it tonight at any cost.
-Once I complete I will come here and write again.
+I am going to follow a tutorial of free code camp to develop a MERN application.(Good going)
+I am going to complete it tonight at any cost.(No need to hurry)
+Once I complete I will come here and write again.(Sure do it)
