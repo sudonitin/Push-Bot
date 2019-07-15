@@ -14,7 +14,6 @@
 <h1>Project Ideas</h1>
 <ul>
   <li>Attendance Manger<b>-Incomplete(50% completed)</b></li>
-  <li>Web Interface for text to speech converter<b>-Not started yet</b></li>
   <li>No Ball OpenCV<b>Not yet started</b></li>
 </ul>
 <br>
