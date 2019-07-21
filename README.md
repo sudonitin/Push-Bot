@@ -1,5 +1,5 @@
 <h1>Goals and bucketlist to achieve In Life</h1>
-<h1>Please nitin put 100% in whatever you are doing, this will help you reach your goals. Do it for your own good</h1>
+<h1>I can do it. All it needs is practice. Please nitin put 100% in whatever you are doing, this will help you reach your goals. Do it for your own good</h1>
 <br>
 <h1>Coding Goals</h1
 <ul>
