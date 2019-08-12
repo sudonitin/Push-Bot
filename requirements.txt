@@ -1,5 +1,3 @@
 StringGenerator
 
-selenium
-
 APScheduler==3.0.0
